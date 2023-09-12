@@ -1,7 +1,12 @@
-# Catatan Penting Fitur Rtma (Last update (12/09/2023))
+# Fitur Rtma (Last update (12/09/2023))
+## Panduan Input Rtma
+panduan video dapat diakses pada link berikut :
+[Klik Disini untuk mengarahkan ke video panduan](https://drive.google.com/drive/folders/1lJiCX_eksi3ycI9Owl5APYi0qRPP7Jzo?hl=id)
+
+## Catatan Penting Fitur Rtma
 beberapa kasus dan pertanyaan yang sering ditanyakan sebagai berikut : 
 
-## Kasus 1 : Registrasi Anggota -> Generate Rtma
+### Kasus 1 : Registrasi Anggota -> Generate Rtma
 - Jika terdapat Anggota Baru yang didaftarkan melalui **BMIOnline** atau melalui **RtmaMobile** yang telah diupload Online sebelum Generate Rtma, 
 maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mobile
 
@@ -10,7 +15,7 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | 1 | Registrasi anggota melalui rtma mobile (jangan diupload online sebelum generate rtma) untuk urutan bebas boleh registrasi anggota dulu atau generate rtma dulu asal anggota tidak diupload online terlebih dahulu| ✅
 | 2 | Input setoran awal melalui Transaksi perorangan BMI Online dan mengakibatkan selisih Penerimaan Kas pada RtmaMobile | |
 
-## Kasus 2 : Terdapat Anggota Baru didaftarkan melalui BMI Online
+### Kasus 2 : Terdapat Anggota Baru didaftarkan melalui BMI Online
 - Jika terdapat Anggota Baru yang didaftarkan melalui BMI Online, maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mobile
 
 | No | Solusi | Rekomendasi
@@ -18,7 +23,7 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | 1 | Registrasi anggota melalui RtmaMobile dan input setoran awal pada Fitur Rtma RtmaMobile | ✅
 | 2 | Input setoran awal melalui Transaksi perorangan BMI Online | |
 
-## Kasus 3 : Terdapat Top Up pembiayaan untuk produk pembiayaan yang sama
+### Kasus 3 : Terdapat Top Up pembiayaan untuk produk pembiayaan yang sama
 ```diff
 - Catatan : Rtma Mobile saat ini belum mendukung fitur Top Up Pembiayaan
 ```
@@ -28,7 +33,7 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | ----------- | ----------- |---|
 | 1 | lakukan pelunasan pembiayaan sebelumnya pada Transaksi pembiayaan perorangan di BmiOnline, kemudian Generate Rtma Mobile dan lakukan pencairan melalui rtma mobile| ✅
 
-## Kasus 4 : Upload online data setelah posting rtha dan rttma di BMIOnline
+### Kasus 4 : Upload online data setelah posting rtha dan rttma di BMIOnline
 - jika terjadi hal demikian, maka tidak dapat upload online, dan rtha hanya berubah pada tab saja, ibarat seperti petugas hanya melakukan pencatatan data pada lembaran kertas
 
 | No | Solusi | Rekomendasi
@@ -36,7 +41,7 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | 1 | lakukan cancel posting rtma dan rttma di bmi online -> upload online rtma di tab -> posting ulang di BMIOnline| ✅
 
 
-## Pertanyaan Lainnya:
+### Pertanyaan Lainnya:
 
 1. Apakah RTMA Mobile dapat digunakan secara offline?
 
