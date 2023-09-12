@@ -40,6 +40,14 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | ----------- | ----------- |---|
 | 1 | lakukan cancel posting rtma dan rttma di bmi online -> upload online rtma di tab -> posting ulang di BMIOnline| ✅
 
+#### Kasus 5 : Pelunasan 2 produk pembiayaan pada satu anggota
+```diff
+- Catatan : Rtma Mobile saat ini belum mendukung fitur Ini
+```
+| No | Solusi | Rekomendasi
+| ----------- | ----------- |---|
+| 1 | lakukan pelunasan pada rtma mobile hanya untuk 1 pembiayaan, pembiayaan lainnya dilakukan di BMIOnline melalui transaksi perorangan (akan terdapat selisih penerimaan kas pada RtmaMobile senilai pelunasan pembiayaan satunya)| ✅
+
 
 ### Pertanyaan Lainnya:
 
@@ -50,3 +58,37 @@ Ya, RTMA Mobile memungkinkan petugas untuk bekerja secara offline, menambahkan d
 2. Apa yang terjadi ketika setelah ubah data tidak upload online?
 
 Data yang telah diinput oleh petugas tidak akan disimpan di server, dan terdapat selisih penerimaan, seperti petugas hanya melakukan pencatatan data pada lembaran kertas.
+
+### Rincian Rumus Perhitugan
+#### Muqasah / Restitusi
+| No | Nama | Kondisi | Rumus |
+| ----------- | ----------- | --- | --- |
+| 1 | Muqasah | minggu pelunasan > (tenor/2)| (tenor - mingguPelunasan + harilibur) * marginRill |
+| |  | minggu pelunasan < (tenor/2)| margin pembiayaan / 2 |
+| 2 | minggu pelunasan | | selisih antara tanggal angsur dan tanggal kegiatan Rembug Pusat (dalam satuan minggu) |
+| 3 | marginRill | | margin / tenor |
+| 4 | hariLibur | | jumlah hari libur antara tanggal angsur dan tanggal kegiatan Rembug pusat |
+
+#### Absensi 
+Jumlah absensi dihitung berdasarkan input kehadiran anggota pada fitur Rtma, berlaku jika memiliki pembiayaan MMU, untuk pembiayaan lainnya, untuk saat ini dapat dicek melalui fitur Kartu Pengawasan Angsuran RtmaMobile
+A = Jumlah Alfa berdasarkan pembiayaan MMU Sebelumnya
+H = Jumlah Hadir berdasarkan pembiayaan MMU Sebelumnya
+INI = Absensi hari ini (dapat di klik)
+
+#### Nyata (A)
+Total penjumlahan angsuran untuk semua produk Pembiayaan + (minggon setoran - minggon penarikan) - penarikan simp 4% + Total Setoran untuk tiap simpanan dalam satu kelompok. hal ini dibuat sesuai dengan kondisi dilapangan umumnya anggota menyerahkan buku beserta uang dalam per kelompok
+bersifat berubah2 jika nilai diatas diubah. misal setoran minggon salah satu anggota dalam kelompok diubah
+
+#### Nyata Real (B)
+Dapat diklik dan diubah nilainya oleh petugas berdasarkan uang yang disetorkan anggota dalam satu kelompok. tujuannya hanya untuk mempermudah petugas ketika jumlah nyata dan nyata real tidak sesuai, maka petugas dapat menganalisa selisih uang yang diterima dan dihitung aplikasi. misal selisih kelebihan uang ternyata anggota Fulan wakaf 2000 rupiah
+
+#### Selisih (B-A)
+hanya untuk mempermudah menganalisa selisih penerimaan tiap kelompok rembug (nilai tidak berpengaruh terhadap apa2)
+
+#### Pyd
+Pembiayaan ke berapa berdasarkan pembiayaan terakhir
+
+#### Droping
+- Jml = jumlah droping
+- D = checklist droping, checklist jika droping
+- plafon = jumlah droping
