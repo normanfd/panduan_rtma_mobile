@@ -15,8 +15,8 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 [Fitur Uji Kelayakan Anggota](5.0.catatan_uji_kelayakan.md)
 
-[Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan)
+[Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan.md)
 
 [Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
 
-[Fitur Registrasi Pembiayaan](8.0.catatan_registrasi_simpanan)
+[Fitur Registrasi Pembiayaan](8.0.catatan_registrasi_simpanan.md)
