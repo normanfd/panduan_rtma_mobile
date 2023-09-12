@@ -22,9 +22,9 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 ```diff
 - Catatan : Rtma Mobile saat ini belum mendukung fitur Top Up Pembiayaan
 ```
-- Jika terdapat Top up (pelunasan dan pencairan) pada hari yang sama maka fitur Rtma pada RtmaMobile akan menyebabkan selisih pada rekap penerimaan kas RtmaMobile
+- Jika terdapat Top up (pelunasan dan pencairan) pada hari yang sama maka fitur Rtma pada RtmaMobile akan menyebabkan selisih pada rekap penerimaan kas RtmaMobile (senilai pencairan pembiayaan)
 
 | No | Solusi | Rekomendasi
 | ----------- | ----------- |---|
-| 1 | lakukan pelunasan pembiayaan sebelumnya pada Transaksi pembiayaan perorangan di BmiOnline | ✅
+| 1 | lakukan pelunasan pembiayaan sebelumnya pada Transaksi pembiayaan perorangan di BmiOnline, kemudian Generate Rtma Mobile dan lakukan pencairan melalui rtma mobile| ✅
 
