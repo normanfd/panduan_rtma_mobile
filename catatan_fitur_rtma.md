@@ -1,4 +1,4 @@
-# Catatan Penting Rtma Mobile (Last update (12/09/2023))
+# Catatan Penting Fitur Rtma (Last update (12/09/2023))
 beberapa kasus dan pertanyaan yang sering ditanyakan sebagai berikut : 
 
 ## Kasus 1 : Registrasi Anggota -> Generate Rtma
