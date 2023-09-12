@@ -28,3 +28,19 @@ maka setoran awal (pokok, minggon, dan adm) tidak dapat diinput melalui Rtma Mob
 | ----------- | ----------- |---|
 | 1 | lakukan pelunasan pembiayaan sebelumnya pada Transaksi pembiayaan perorangan di BmiOnline, kemudian Generate Rtma Mobile dan lakukan pencairan melalui rtma mobile| ✅
 
+## Kasus 4 : Upload online data setelah Rtma di posting rtha dan rttma di BMIOnline
+- jika terjadi hal demikian, maka tidak dapat upload online, dan rtha hanya berubah pada tab saja, ibarat seperti petugas hanya melakukan pencatatan data pada lembaran kertas
+| No | Solusi | Rekomendasi
+| ----------- | ----------- |---|
+| 1 | lakukan cancel posting rtma dan rttma di bmi online -> upload online rtma di tab -> posting ulang di BMIOnline| ✅
+
+
+### Pertanyaan yang Sering Diajukan (FAQ):
+
+1. Apakah RTMA Mobile dapat digunakan secara offline?
+
+Ya, RTMA Mobile memungkinkan petugas untuk bekerja secara offline, menambahkan data anggota baru, dan mengubah Transaksi pembiayaan, simpanan, dan titipan tanpa koneksi internet. Data tersebut dapat disinkronkan ketika koneksi internet tersedia melalui fitur **upload online**. (dengan catatan setelah Generate data Rtma)
+
+2. Apa yang terjadi ketika setelah ubah data tidak upload online?
+
+Data yang telah diinput oleh petugas tidak akan disimpan di server, dan terdapat selisih penerimaan, seperti petugas hanya melakukan pencatatan data pada lembaran kertas.
