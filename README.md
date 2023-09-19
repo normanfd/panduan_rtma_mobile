@@ -20,3 +20,5 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 [Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
 
 [Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
+
+[Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
