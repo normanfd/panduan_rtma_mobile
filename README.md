@@ -1,7 +1,7 @@
 # Panduan Aplikasi Rtma Mobile
 Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
-[Fitur Login](0.0.Login.md)
+[Login Aplikasi](0.0.Login.md)
 
 [Fitur RTMA](1.0.catatan_fitur_rtma.md)
 
