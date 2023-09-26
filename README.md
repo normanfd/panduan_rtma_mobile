@@ -3,6 +3,8 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 [Login Aplikasi](0.0.Login.md)
 
+[Install dan Update Aplikasi](0.1.install_dan_update_aplikasi.md)
+
 [Fitur RTMA](1.0.catatan_fitur_rtma.md)
 
 [Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
@@ -24,3 +26,5 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 [Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
 
 [Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
+
+[Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
