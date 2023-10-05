@@ -1,11 +1,15 @@
 # Panduan Aplikasi Rtma Mobile
 Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
-[Install dan Update Aplikasi](0.1.install_dan_update_aplikasi.md)
+## Instalasi dan upadate aplikasi
+- [Install dan Update Aplikasi](0.1.install_dan_update_aplikasi.md)
 
-[Login Aplikasi](0.0.Login.md)
+## Login Aplikasi
+- [Login Aplikasi](0.0.Login.md)
 
-[Fitur RTMA](1.0.catatan_fitur_rtma.md)
+## Fitur RTMA
+- [Pencatatan dan Upload Online Rtma](1.0.catatan_fitur_rtma.md)
+- [Input Penerimaan Kas & Rekap Penerimaan Kas](1.1.rekap_penerimaan_kas.md)
 
 [Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
 
