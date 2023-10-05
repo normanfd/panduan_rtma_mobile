@@ -9,26 +9,33 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Fitur RTMA
 - [Pencatatan dan Upload Online Rtma](1.0.catatan_fitur_rtma.md)
-- [Input Penerimaan Kas & Rekap Penerimaan Kas](1.1.rekap_penerimaan_kas.md)
+- [Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
+- [Simpan PDF Rtma](1.2.simpan_pdf_rtma)
+- [Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
 
-[Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
+## Kartu Pengawasan Angsuran
+- [Fitur KPA](2.0catatan_fitur_kpa.md)
 
-[Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
-
-[Fitur KPA](2.0catatan_fitur_kpa.md)
-
+## Registrasi Anggota
 [Fitur Registrasi Anggota](3.0.catatan_fitur_registrasi_anggota.md)
 
+## Mutasi Anggota
 [Fitur Mutasi Anggota](4.0catatan_fitur_mutasi_anggota.md)
 
+## Uji Kelayakan
 [Fitur Uji Kelayakan Anggota](5.0.catatan_uji_kelayakan.md)
 
+## Registrasi Pembiayaan
 [Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan.md)
 
+## Analisis Pembiayaan
 [Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
 
+## Registrasi Simpanan
 [Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
 
+## Registrasi Pembiayaan
 [Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
 
+## Daftar Pembaruan Aplikasi
 [Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
