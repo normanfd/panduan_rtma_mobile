@@ -7,6 +7,7 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 ## Login Aplikasi
 - [Login Aplikasi](0.0.Login.md)
 - [Ubah Password](0.1.ubah_password.md)
+- [Lupa Password](0.1.l.lupa_password.md)
 
 ## Fitur RTMA
 - [Pencatatan dan Upload Online Rtma](1.0.catatan_fitur_rtma.md)
