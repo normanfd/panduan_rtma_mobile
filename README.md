@@ -12,7 +12,7 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 ## Fitur RTMA
 - [Pencatatan dan Upload Online Rtma](1.0.catatan_fitur_rtma.md)
 - [Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
-- [Simpan PDF Rtma](1.2.simpan_pdf_rtma.md)
+- [Simpan PDF & Arsip Rtma](1.2.simpan_pdf_rtma.md)
 
 ## Fitur RTMA - Slip Simpanan / Slip Penarikan
 - [Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
