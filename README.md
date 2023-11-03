@@ -1,7 +1,7 @@
 # Panduan Aplikasi Rtma Mobile
 Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
-## Instalasi dan upadate aplikasi
+## Instalasi dan update aplikasi
 - [Install dan Update Aplikasi](0.1.install_dan_update_aplikasi.md)
 
 ## Login Aplikasi
