@@ -1,0 +1,2 @@
+- pada semua panduan yang akan dijelaskan hanya panduan untuk menyimpan arsip pada masing-masing tab petugas, untuk menyimpan arsip secara online dan dapat diakses oleh semua petugas / asmen /mancab maka disarankan untuk mengupload kembali pdf tersebut ke google drive masing-masing cabang. untuk panduannya sebagai berikut
+[Klik Disini untuk mengarahkan ke video panduan](https://drive.google.com/file/d/1hOqXLQP4hxK4D8S_wFdZIE23hhDW_91v/view?usp=drive_link)
