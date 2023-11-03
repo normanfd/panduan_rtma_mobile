@@ -4,6 +4,9 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 ## Instalasi dan update aplikasi
 - [Install dan Update Aplikasi](0.1.install_dan_update_aplikasi.md)
 
+## Arsip Dokumen Hasil Input
+- [Arsip](arsip.md)
+
 ## Login Aplikasi
 - [Login Aplikasi](0.0.Login.md)
 - [Ubah Password](0.1.ubah_password.md)
@@ -18,7 +21,9 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 ## Fitur RTMA - Slip Simpanan / Slip Penarikan
 - [Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
 - [Input Slip Simpanan](1.2.input_slip_simpanan.md)
+- [Perubahan Nominal Slip Simpanan]() [dalam proses pembuatan dokumentasi]
 - [Simpan PDF Slip Simpanan](1.2.simpan_pdf_slip_simpanan.md)
+- [Print Slip Simpanan]() [dalam proses pembuatan dokumentasi]
   
 ## Kartu Pengawasan Angsuran
 - [Fitur KPA](2.0catatan_fitur_kpa.md)
