@@ -17,6 +17,7 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Fitur RTMA - Slip Simpanan / Slip Penarikan
 - [Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
+- [Cara Input Slip Simpanan](1.2.input_slip_simpanan.md)
   
 ## Kartu Pengawasan Angsuran
 - [Fitur KPA](2.0catatan_fitur_kpa.md)
