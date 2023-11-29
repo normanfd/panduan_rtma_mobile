@@ -47,3 +47,6 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Daftar Pembaruan Aplikasi
 [Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
+
+## PENTING
+![Upload Online Sinkronisasi dan Perbarui data](https://github.com/normanfd/panduan_rtma_mobile/assets/37357830/b26121af-c901-4ff0-ad4e-0df0ea222f71)
