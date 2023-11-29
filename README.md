@@ -27,23 +27,23 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 - [Fitur KPA](2.0catatan_fitur_kpa.md)
 
 ## Registrasi Anggota
-[Fitur Registrasi Anggota](3.0.catatan_fitur_registrasi_anggota.md)
+- [Fitur Registrasi Anggota](3.0.catatan_fitur_registrasi_anggota.md)
 
 ## Mutasi Anggota
-[Fitur Mutasi Anggota](4.0catatan_fitur_mutasi_anggota.md)
+- [Fitur Mutasi Anggota](4.0catatan_fitur_mutasi_anggota.md)
 
 ## Uji Kelayakan
-[Fitur Uji Kelayakan Anggota](5.0.catatan_uji_kelayakan.md)
+- [Fitur Uji Kelayakan Anggota](5.0.catatan_uji_kelayakan.md)
 
 ## Registrasi Pembiayaan
-[Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan.md)
-[Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
+- [Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan.md)
+- [Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
 
 ## Analisis Pembiayaan
-[Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
+- [Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
 
 ## Registrasi Simpanan
-[Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
+- [Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
 
 ## Daftar Pembaruan Aplikasi
 [Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
