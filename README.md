@@ -37,15 +37,13 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Registrasi Pembiayaan
 [Fitur Registrasi Pembiayaan](6.0.catatan_registrasi_pembiayaan.md)
+[Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
 
 ## Analisis Pembiayaan
 [Fitur Analisis Pembiayaan](7.0.catatan_analisis_pembiayaan.md)
 
 ## Registrasi Simpanan
 [Fitur Registrasi Simpanan](8.0.catatan_registrasi_simpanan.md)
-
-## Registrasi Pembiayaan
-[Fitur Registrasi Pembiayaan Kiva](9.0.registrasi_pembiayaan_kiva.md)
 
 ## Daftar Pembaruan Aplikasi
 [Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
