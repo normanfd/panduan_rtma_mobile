@@ -17,6 +17,10 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 - [Fitur Input Penerimaan Kas](1.1.catatan_fitur_input_penerimaan_kas.md)
 - [Simpan PDF & Arsip Rtma](1.2.simpan_pdf_rtma.md)
 - [Riwayat Pencatatan dan Perubahan input pada Rtma](1.3.History_Input_Rtha.md)
+- [Top Up Pembiayaan](1.4.TopUp%20Pembiayaan.md)
+
+## Fitur Transaksi Pembiayaan
+- [Input Transaksi Pembiayaan]()
 
 ## Fitur RTMA - Slip Simpanan / Slip Penarikan
 - [Fitur Slip Simpanan](1.2.catatan_fitur_slip_simpanan.md)
