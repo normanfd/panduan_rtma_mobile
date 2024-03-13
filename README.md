@@ -1,4 +1,6 @@
 # Panduan Aplikasi Rtma Mobile
+last update : 13 Maret 2024
+
 Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Instalasi dan update aplikasi
@@ -51,6 +53,12 @@ Anda dapat mengklik tautan di bawah ini untuk menuju ke panduan yang sesuai:
 
 ## Daftar Pembaruan Aplikasi
 [Riwayat Pembaruan Aplikasi](0.2.Riwayat_Pembaruan_Aplikasi.md)
+
+## perizinan aplikasi
+[Panduan mengaktifkan izin aplikasi](izin_penggunaan_aplikasi.md)
+
+## Panduan lainnya yang mungkin berguna untuk sebagian petugas
+[Panduan Lainnya](lainnya.md)
 
 ## PENTING
 Alur penggunaan Harian Rtma Mobile
